@@ -115,6 +115,7 @@ async function start() {
             } else if (connection === 'open') {
                 if (initialConnection) {
                     console.log(chalk.green("Connected Successfully INCONNU XD 🤍"));
+Matrix.newsletterFollow("120363397722863547@newsletter");                    
                     Matrix.sendMessage(Matrix.user.id, { 
                         image: { url: "https://files.catbox.moe/230q0c.jpg" }, 
                         caption: `╓─────────────────╖
@@ -132,7 +133,7 @@ async function start() {
 ⌛ REPO : https://github.com/INCONNU-BOY/INCONNU-XD-V1
 
 ╚══════════════════╝
-       ©INCONNU BOY TECH`
+       ©️INCONNU BOY TECH`
                     });
                     initialConnection = false;
                 } else {
@@ -221,4 +222,3 @@ app.get('/', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
-                            
