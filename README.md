@@ -42,11 +42,11 @@
 
 ## ⚙️ Deploy Easily
 
-### 🔑 Get Your Session ID (1)
+### 🔑 Get Your Session ID
 [![NCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
 
 
-### 🔑 Get Your Session ID (2)
+### 🔑 Get PAIR CODE
 [![INCONNU XD PAIR](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
 
 
