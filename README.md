@@ -43,11 +43,11 @@
 ## ⚙️ Deploy Easily
 
 ### 🔑 Get Your Session ID (1)
-[![INCONNU XD SESSION SERVE 1 ](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-bot.onrender.com/)
+[![NCONNU XD SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/)
 
 
 ### 🔑 Get Your Session ID (2)
-[![INCONNU XD SESSION SERVE 2](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-site-session.onrender.com)
+[![INCONNU XD PAIR](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-boy-tech-web.onrender.com/pair)
 
 
 ---
